@@ -1,5 +1,5 @@
 CNN_LSTM:
-  DIR_Gait: W #H B W
+  DIR_Gait: H #H B W
   DIR_Subject: ['S1']
 
   DIR_Sampling: ../dataset/Data_Sampling/
