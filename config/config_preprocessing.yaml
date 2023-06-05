@@ -1,0 +1,11 @@
+PREPROCESSING:
+  Sampling:
+    DIR_Raw: ../../dataset/Data_Raw/ # RAW DATA (input path)
+    DIR_Sampling: ../../dataset/Data_Sampling/ # prep data (output path)
+    DIR_Subject: ['S1']
+    DIR_Gait: ['Acc_H', 'Ang_H', 'Acc_B', 'Ang_B', 'Acc_W', 'Ang_W']
+
+      
+  Transformation:
+    DIR_Sampling: ../../dataset/Data_Sampling/ # input path
+    DIR_GAF: ../../dataset/Data_GAF/ # prep data (output path)

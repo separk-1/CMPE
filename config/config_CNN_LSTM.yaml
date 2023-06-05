@@ -1,0 +1,10 @@
+CNN_LSTM:
+  DIR_Gait: W #H B W
+  DIR_Subject: ['S1']
+
+  DIR_Sampling: ../dataset/Data_Sampling/
+  DIR_GAF: ../dataset/Data_GAF/
+  DIR_Result: ../results/
+  epoch: 100
+  lr: 0.00001
+  batch_size: 4
