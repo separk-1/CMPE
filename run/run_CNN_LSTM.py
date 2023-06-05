@@ -162,7 +162,7 @@ History = Model_Final.fit([Data_Tr_Acc, Data_Tr_Ang], [Label_Tr], validation_dat
 plot_model(Model_Final, to_file= DIR_Result + Name +'_Model.png', show_shapes=True, show_layer_names=True)
 
 ## Font
-matplotlib.font_manager.fontManager.addfont('./times-new-roman.ttf')
+matplotlib.font_manager.fontManager.addfont('../times-new-roman.ttf')
 
 LabelFont = {'family' : 'Times New Roman',
              'weight' : 'normal',

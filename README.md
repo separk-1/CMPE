@@ -58,3 +58,10 @@
    #set config_CNN_LSTM.yaml
    python run/run_CNN_LSTM.py
    ```
+
+
+<!-- Architecture -->
+## Architecture
+![Createplan](./image/architecture.png)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
