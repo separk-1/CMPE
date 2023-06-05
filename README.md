@@ -29,6 +29,8 @@
 
 ### Installation
 
+* create dataset/Data_GAF, dataset/Data_Sampling, results folder
+
 1. Clone the repo
    ```sh
    git clone https://github.com/separk-1/CMPE.git
