@@ -2,6 +2,8 @@
 
 <div id="top"></div>
 
+This project is inspired by and builds upon the findings of the paper: Park, S., An, M., Xu, H., Ahn, C. R., & Park, M. (2022). Construction worker’s awkward posture recognition using wearable sensors. International Symposium on Architectural Interchanges in Asia.
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +18,6 @@
       <a href="#architecture">Architecture</a></li>
   </ol>
 </details>
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -60,7 +61,6 @@
    #set config_CNN_LSTM.yaml
    python run/run_CNN_LSTM.py
    ```
-
 
 <!-- Architecture -->
 ## Architecture
