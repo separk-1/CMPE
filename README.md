@@ -1,4 +1,4 @@
-# CMPE_HAR
+# Construction worker’s awkward posture recognition using wearable sensors
 
 <div id="top"></div>
 
